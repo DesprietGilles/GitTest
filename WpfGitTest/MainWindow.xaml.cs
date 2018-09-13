@@ -30,6 +30,7 @@ namespace WpfGitTest
             lbBericht.Items.Clear();
             lbBericht.Items.Add("Welkom!");
             lbBericht.Items.Add("Welcome!");
+            lbBericht.Items.Add("Bonjour!");
         }
     }
 }
