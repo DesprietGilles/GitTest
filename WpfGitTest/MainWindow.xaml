@@ -8,8 +8,8 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Label Content="Kennismaking met GitHub" HorizontalAlignment="Left" Margin="30,30,0,0" VerticalAlignment="Top" Width="307"/>
-        <Button Content="Bericht" HorizontalAlignment="Left" Margin="42,72,0,0" VerticalAlignment="Top" Width="75" Click="Btn_Bericht"/>
-        <ListBox Name="lbBericht"  HorizontalAlignment="Left" Height="148" Margin="342,30,0,0" VerticalAlignment="Top" Width="398"/>
+        <Button Content="Bericht" HorizontalAlignment="Left" Margin="30,61,0,0" VerticalAlignment="Top" Width="75" Click="Btn_Bericht"/>
+        <ListBox Name="lbBericht"  HorizontalAlignment="Left" Height="148" Margin="30,101,0,0" VerticalAlignment="Top" Width="398"/>
 
     </Grid>
 </Window>
